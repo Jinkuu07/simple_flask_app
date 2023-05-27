@@ -7,7 +7,7 @@ body {
 form {
     background-color: #fff;
     padding: 20px;
-    border-radius: 5px;
+    border-radius: 10px;
     max-width: 600px;
     margin: 0 auto;
 }
@@ -30,7 +30,7 @@ input[type="submit"] {
 div {
     background-color: #ffffff;
     padding: 20px;
-    border-radius: 5px;
+    border-radius: 10px;
     max-width: 600px;
     margin: 0 auto;
 }
